@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alen Abhilash</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A Mern Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alenabhilash&label=Profile%20views&color=0e75b6&style=flat" alt="alenabhilash" /> </p>
 
@@ -23,8 +23,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alen-abhilash-](https://www.linkedin.com/in/alen-abhilash-)
 
-- ⚡ Fun fact **Making Fun ,**
-
+- ⚡ Fun fact : Making Fun, doing codes <br> <br>
+  <img src="https://camo.githubusercontent.com/d6b007401a644a825e7789cf983b307fd2783f0d36f4e72b414aaf65e08bab98/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632" alt="" width="500px" width="500">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alen abhilash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alen abhilash" height="30" width="40" /></a>
