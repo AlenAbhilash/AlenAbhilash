@@ -9,7 +9,7 @@
 
 -  How to reach me **alenabhilash2@gamil.com**
 
-- Know about my experiences [https://www.linkedin.com/in/alen-abhilash-](https://www.linkedin.com/in/alen-abhilash-)
+- Know about my experiences - https://www.linkedin.com/in/alen-abhilash-20268a259/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
