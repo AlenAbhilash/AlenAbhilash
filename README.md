@@ -46,6 +46,9 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="30" width="30"> 
   </a> 
+    <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-heroku-1-282458.png" alt="nginx" height="40" width="40"> 
+  </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30" width="30"/> 
   </a> 
