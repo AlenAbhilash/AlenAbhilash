@@ -2,7 +2,7 @@
 <h3 align="center">A Mern Stack developer </h3>
  
 -  I’m currently learning **React**
-
+  
 -  I’m looking to collaborate on **freelancer**
 
 -  I’m looking for help with **Chat application**
