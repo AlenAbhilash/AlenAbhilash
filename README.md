@@ -20,7 +20,7 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="30" width="30" /> 
   </a> 
-
+ 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" width="30"/> 
   </a> 
