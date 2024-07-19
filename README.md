@@ -3,7 +3,7 @@
    
 -  I’m currently learning **React**
     
--  I’m looking to collaborate on **freelancer**
+-  I’m looking to collaborate on **freelancer** 
    
 -  I’m looking for help with **Chat application** 
  
