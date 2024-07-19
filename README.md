@@ -5,7 +5,7 @@
     
 -  I’m looking to collaborate on **freelancer**
    
--  I’m looking for help with **Chat application**
+-  I’m looking for help with **Chat application** 
  
 -  How to reach me **alenabhilash2@gamil.com**
 
