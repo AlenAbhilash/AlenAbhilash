@@ -60,6 +60,9 @@
    <a href="https://TailwindCSS.org/" target="_blank" rel="noreferrer"> 
     <img src="https://i.postimg.cc/jdjJvgHK/tailwind-css.png" alt="react" height="30" width="30"/> 
   </a> 
+   <a href="https://bootstrap.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://i.postimg.cc/wBDt3Sp5/media.png" alt="react" height="30" width="30"/> 
+  </a> 
 </p>
 
 
