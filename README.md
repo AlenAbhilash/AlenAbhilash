@@ -54,6 +54,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" width="30"/> 
   </a> 
+    <a href="https://css.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://i.postimg.cc/yNDP5601/social.png" alt="react" height="30" width="30"/> 
+  </a> 
+   <a href="https://TailwindCSS.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://i.postimg.cc/jdjJvgHK/tailwind-css.png" alt="react" height="30" width="30"/> 
+  </a> 
 </p>
 
 
