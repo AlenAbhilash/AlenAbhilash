@@ -63,6 +63,9 @@
    <a href="https://bootstrap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://i.postimg.cc/wBDt3Sp5/media.png" alt="react" height="30" width="30"/> 
   </a> 
+   <a href="https://firebase.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="react" height="30" width="30"/> 
+  </a> 
 </p>
 
 
